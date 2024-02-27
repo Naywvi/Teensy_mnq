@@ -20,48 +20,7 @@ Ce repository contient un programme pour la Teensy ainsi que des configurations 
     git clone https://github.com/Naywvi/Teensy_MNQ.git
     ```
 
-2. Placer le fichier Arduino et les configurations dans le dossier `Teensy_SD_CARD`.
+2. Copier-coller le code du fichier .ino dans l'IDE Arduino et téléverser sur la Teensy.
+3. Copier tout le contenu du dossier `Teensy_SD_CARD` sur la carte SD de la Teensy.
 
-3. Suivre les instructions suivantes pour l'installation et l'exécution du programme Teensy_MNQ.
-
-**Instructions**
-
-**Création du compte admin**
-
-1. Connectez la Teensy à votre ordinateur.
-
-2. Téléversez le programme Arduino sur la Teensy.
-
-3. Suivez les instructions affichées pour créer le compte admin avec le mot de passe fourni.
-
-**Désactivation de Windows Defender et du Firewall**
-
-1. Exécutez le programme Teensy_MNQ sur votre ordinateur.
-
-2. Le programme désactivera discrètement Windows Defender et le Firewall.
-
-**Communication avec la Teensy**
-
-1. Une fois le compte admin créé et les protections désactivées, la Teensy sera prête à communiquer avec votre ordinateur.
-
-2. Le programme recherchera automatiquement le port auquel la Teensy est connectée et établira une communication bidirectionnelle.
-
-**Persistance**
-
-1. Si le compte admin n'est pas créé, le programme attendra un délai et recommencera l'installation depuis le début.
-
-**Installation du reverse shell**
-
-1. Suivez les instructions spécifiques pour l'installation du reverse shell fournies dans le dossier `Teensy_SD_CARD`.
-
-**Persistance du reverse shell au démarrage**
-
-1. Suivez les instructions pour assurer la persistance du reverse shell au démarrage de l'ordinateur.
-
-**Installation du grabber Discord**
-
-1. Suivez les instructions pour l'installation du grabber Discord fournies dans le dossier `Teensy_SD_CARD`.
-
-**Installation de AnyDesk et récupération de l'ID**
-
-1. Suivez les instructions pour l'installation de AnyDesk et la récupération de l'ID fournies dans le dossier `Teensy_SD_CARD`.
+C'est tout ! Le programme s'exécutera automatiquement une fois que la Teensy est connectée à un ordinateur.
