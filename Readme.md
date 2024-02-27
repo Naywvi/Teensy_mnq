@@ -17,7 +17,7 @@ Ce repository contient un programme pour la Teensy ainsi que des configurations 
 1. Cloner ce repository sur votre ordinateur :
 
     ```
-    git clone https://github.com/votre-utilisateur/Teensy_MNQ.git
+    git clone https://github.com/Naywvi/Teensy_MNQ.git
     ```
 
 2. Placer le fichier Arduino et les configurations dans le dossier `Teensy_SD_CARD`.
