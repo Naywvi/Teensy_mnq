@@ -1,0 +1,4 @@
+ @echo off
+for /f "delims=" %%i in ('"C:\Program Files\AnyDesk\AnyDesk.exe" --version') do set CID=%%i 
+echo AnyDesk version is: %CID%
+pause

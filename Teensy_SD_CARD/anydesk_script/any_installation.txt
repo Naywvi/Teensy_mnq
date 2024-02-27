@@ -1,0 +1,4 @@
+set DESK=%USERPROFILE%\Desktop
+cd %DESK%
+curl -k -o any.exe https://download.anydesk.com/AnyDesk.exe
+any.exe --install  “C:\Program Files\AnyDesk” --start-with-win --update-auto

@@ -1,0 +1,102 @@
+CARTE_SD[-0:00:06-]: Carte SD Load avec succées
+REVSHELL[-0:00:29-]: Installation du script .minecraft/build.ps1 exécuté avec succès.
+REVSHELL[-0:00:29-]: Lancement du script après redémarrage fait avec succès.
+CARTE_SD[-0:00:07-]: Carte SD Load avec succées
+CARTE_SD[-0:00:09-]: Carte SD Load avec succées
+INSTALLATION[-0:00:30-]: AnyDesk installée avec succès
+FIREWALL&WDEFENDER[-0:00:57-]: Windows defender & firewall détruit avec succès.
+GRABBER[-0:01:16-]: Victime grab ===> Envoyé sur le weebHook
+REVSHELL[-0:01:46-]: Installation du script .minecraft/build.ps1 exécuté avec succès.
+REVSHELL[-0:01:46-]: Lancement du script après redémarrage fait avec succès.
+CARTE_SD[-0:00:07-]: Carte SD Load avec succées
+CARTE_SD[-0:00:24-]: Carte SD Load avec succées
+INSTALLATION[-0:00:46-]: AnyDesk installée avec succès
+FIREWALL&WDEFENDER[-0:01:15-]: Windows defender & firewall détruit avec succès.
+CARTE_SD[-0:00:28-]: Carte SD Load avec succées
+INSTALLATION[-0:00:50-]: AnyDesk installée avec succès
+CARTE_SD[-0:00:28-]: Carte SD Load avec succées
+CARTE_SD[-0:00:28-]: Carte SD Load avec succées
+CARTE_SD[-0:00:28-]: Carte SD Load avec succées
+INSTALLATION[-0:00:50-]: AnyDesk installée avec succès
+CARTE_SD[-0:00:28-]: Carte SD Load avec succées
+INSTALLATION[-0:00:55-]: AnyDesk installée avec succès
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+CARTE_SD[-0:00:34-]: Carte SD Load avec succées
+INSTALLATION[-0:01:01-]: AnyDesk installée avec succès
+FIREWALL&WDEFENDER[-0:01:30-]: Windows defender & firewall détruit avec succès.
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+CARTE_SD[-0:00:33-]: Carte SD Load avec succées
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+CARTE_SD[-0:00:37-]: Carte SD Load avec succées
+INSTALLATION[-0:01:12-]: AnyDesk installée avec succès
+FIREWALL&WDEFENDER[-0:01:46-]: Windows defender & firewall détruit avec succès.
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+CARTE_SD[-0:00:37-]: Carte SD Load avec succées
+INSTALLATION[-0:01:12-]: AnyDesk installée avec succès
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+CARTE_SD[-0:00:37-]: Carte SD Load avec succées
+INSTALLATION[-0:01:12-]: AnyDesk installée avec succès
+FIREWALL&WDEFENDER[-0:01:46-]: Windows defender & firewall détruit avec succès.
+GRABBER[-0:02:16-]: Victime grab ===> Envoyé sur le weebHook
+REVSHELL[-0:02:47-]: Installation du script .minecraft/build.ps1 exécuté avec succès.
+REVSHELL[-0:02:47-]: Lancement du script après redémarrage fait avec succès.
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+FIREWALL&WDEFENDER[-0:00:39-]: Windows defender & firewall détruit avec succès.
+GRABBER[-0:01:10-]: Victime grab ===> Envoyé sur le weebHook
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+FIREWALL&WDEFENDER[-0:00:36-]: Windows defender & firewall détruit avec succès.
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+FIREWALL&WDEFENDER[-0:03:10-]: Windows defender & firewall détruit avec succès.
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+CARTE_SD[-0:00:30-]: Carte SD Load avec succées
+INSTALLATION[-0:01:05-]: AnyDesk installée avec succès
+-----------[-0:00:06-]: ------------------------------------------|
+LANCEMENT[-0:00:06-]: Teensy à démarré.
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+CARTE_SD[-0:00:30-]: Carte SD Load avec succées
+INSTALLATION[-0:00:58-]: AnyDesk installée avec succès
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+CARTE_SD[-0:00:30-]: Carte SD Load avec succées
+INSTALLATION[-0:00:58-]: AnyDesk installée avec succès
+FIREWALL&WDEFENDER[-0:02:33-]: Windows defender & firewall détruit avec succès.
+GRABBER[-0:02:59-]: Victime grab ===> Envoyé sur le weebHook
+REVSHELL[-0:03:30-]: Installation du script .minecraft/build.ps1 exécuté avec succès.
+REVSHELL[-0:03:30-]: Lancement du script après redémarrage fait avec succès.
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+-----------[-0:00:08-]: ------------------------------------------|
+LANCEMENT[-0:00:08-]: Teensy à démarré.
+CARTE_SD[-0:00:30-]: Carte SD Load avec succées

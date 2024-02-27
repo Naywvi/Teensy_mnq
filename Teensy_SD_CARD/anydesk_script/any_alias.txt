@@ -1,0 +1,4 @@
+ @echo off
+for /f "delims=" %%i in ('"C:\Program Files\AnyDesk\AnyDesk.exe" --get-alias') do set CID=%%i 
+echo AnyDesk Alias is: %CID%
+pause
